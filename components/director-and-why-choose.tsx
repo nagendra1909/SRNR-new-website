@@ -113,13 +113,13 @@ const DirectorAndWhyChoose = () => {
 
                   {/* Name and Title */}
                   <div>
-                    <h3 className="text-2xl lg:text-3xl font-bold text-slate-900 mb-2">Sri Nivas Rao Ravella</h3>
+                    <h3 className="text-2xl lg:text-3xl font-bold text-slate-900 mb-2">Narasimhulu S </h3>
                     <p className="text-lg text-blue-600 font-semibold mb-4">Founder & Director, SRNR IT Solutions</p>
                   </div>
 
                   {/* Description */}
                   <blockquote className="text-slate-700 text-lg leading-relaxed italic">
-                    "With a mission to deliver excellence in IT and staffing services, Sri Nivas Rao brings over a
+                    "With a mission to deliver excellence in IT and staffing services, Narasimhulu S brings over a
                     decade of experience in tech innovation and business growth. Under his leadership, SRNR IT Solutions
                     has successfully served clients with smart, scalable, and future-proof solutions."
                   </blockquote>
